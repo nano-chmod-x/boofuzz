@@ -27,7 +27,7 @@ The goal: fuzz everything.
 
 ### got clone
 
-```bash
+```
 git clone https://github.com/nano-chmod-x/boofuzz.git
 ```
 
