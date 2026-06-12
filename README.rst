@@ -25,6 +25,12 @@ The goal: fuzz everything.
 .. figure:: https://github.com/jtpereyda/boofuzz/raw/master/_static/boofuzz-screenshot.png
     :alt: boofuzz screenshot
 
+### got clone
+
+```bash
+git clone https://github.com/nano-chmod-x/boofuzz.git
+```
+
 Why?
 ----
 
