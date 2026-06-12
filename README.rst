@@ -1,4 +1,4 @@
-```Bash
+
 git clone https://github.com/nano-chmod-x/boofuzz.git
 
-```
+
