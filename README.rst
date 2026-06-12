@@ -29,8 +29,7 @@ The goal: fuzz everything.
 
 ```
 git clone https://github.com/nano-chmod-x/boofuzz.git
-
-```
+``
 
 Why?
 ----
